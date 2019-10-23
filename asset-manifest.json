@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hawkendota/static/css/main.b100e6da.chunk.css",
+    "main.js": "/hawkendota/static/js/main.1e92458c.chunk.js",
+    "main.js.map": "/hawkendota/static/js/main.1e92458c.chunk.js.map",
+    "runtime-main.js": "/hawkendota/static/js/runtime-main.51b4b956.js",
+    "runtime-main.js.map": "/hawkendota/static/js/runtime-main.51b4b956.js.map",
+    "static/js/2.e3b05eb3.chunk.js": "/hawkendota/static/js/2.e3b05eb3.chunk.js",
+    "static/js/2.e3b05eb3.chunk.js.map": "/hawkendota/static/js/2.e3b05eb3.chunk.js.map",
+    "index.html": "/hawkendota/index.html",
+    "precache-manifest.a805c173cfba6c7385ec2826b1b21a2a.js": "/hawkendota/precache-manifest.a805c173cfba6c7385ec2826b1b21a2a.js",
+    "service-worker.js": "/hawkendota/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/hawkendota/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.png": "/hawkendota/static/media/logo.848b9045.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51b4b956.js",
+    "static/js/2.e3b05eb3.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.1e92458c.chunk.js"
+  ]
+}

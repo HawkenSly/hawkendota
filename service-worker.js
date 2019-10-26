@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hawkendota/precache-manifest.a805c173cfba6c7385ec2826b1b21a2a.js"
+  "/hawkendota/precache-manifest.3138fac990945906f5c67bce50d46e1a.js"
 );
 
 self.addEventListener('message', (event) => {
